@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947934080873",
+    "project_id": "pharmacy-stage2",
+    "storage_bucket": "pharmacy-stage2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947934080873:android:d47e6d3222f84526b3d7f8",
+        "android_client_info": {
+          "package_name": "com.aistudio.mustansiriyah.pharmacy.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJS8aPCgx3offYqUSzPjS0Kk8a9E9yoAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947934080873:android:d718730d9cdb9b7bb3d7f8",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJS8aPCgx3offYqUSzPjS0Kk8a9E9yoAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
